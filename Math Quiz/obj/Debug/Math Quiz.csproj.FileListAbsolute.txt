@@ -1,0 +1,9 @@
+D:\CProjects\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe.config
+D:\CProjects\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe
+D:\CProjects\Math Quiz\Math Quiz\bin\Debug\Math Quiz.pdb
+D:\CProjects\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csprojResolveAssemblyReference.cache
+D:\CProjects\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Form1.resources
+D:\CProjects\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Properties.Resources.resources
+D:\CProjects\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.GenerateResource.Cache
+D:\CProjects\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe
+D:\CProjects\Math Quiz\Math Quiz\obj\Debug\Math Quiz.pdb
